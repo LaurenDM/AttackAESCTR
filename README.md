@@ -6,7 +6,11 @@ For information about JuPyter Notebooks: see https://jupyter.org
 
 The code allows to choose between different devices for the traces.
 - CORTEX : traces from a Cortex M4, using the ChipWhisperer Lite board with STM32F3 target mounted on UFO board
-- DUINO : traces from Arduino Uno device
+- DUINO : traces from Arduino Uno device (The traces are too large to upload on Github, but can be sent to you by request)
 - XMEGA : traces from the built-in XMEGA on the ChipWhisperer Lite board
-The traces from the arduino are too large to upload on Github, but can be sent to you by request (mailto:lauren.demeyer@esat.kuleuven.be)
+
+
+
+Any questions can be sent to lauren.demeyer@esat.kuleuven.be
+
 
