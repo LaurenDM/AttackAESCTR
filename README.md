@@ -1,7 +1,6 @@
 # Recovering the CTR_DRBG state in 256 traces
 
-This is the code that exemplifies the attack described in "Recovering the CTR_DRBG state in 256 traces".
-(link to paper will appear here when available)
+This is the code that exemplifies the attack described in "Recovering the CTR_DRBG state in 256 traces": https://tches.iacr.org/index.php/TCHES/article/view/8392
 
 For information about JuPyter Notebooks: see https://jupyter.org
 
